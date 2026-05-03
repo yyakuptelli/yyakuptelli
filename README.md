@@ -53,4 +53,4 @@ I am a Senior Computer Engineering student at Middle East Technical University (
 
 <br>
 
-📫 **Let's Connect:** [yakuptelli@metu.edu.tr](mailto:yakuptelli@metu.edu.tr) | [LinkedIn Profile](https://linkedin.com/in/yakup-telli-80a67a17a)
+📫 **Let's Connect:** [yakup.telli@metu.edu.tr](mailto:yakup.telli@metu.edu.tr) | [LinkedIn Profile](https://linkedin.com/in/yakup-telli-80a67a17a)
