@@ -1,14 +1,14 @@
 # Hi there, I'm Yakup Telli! 👋
 
 <p align="center">
-  <b>Product-Driven Software Engineer | Backend Ecosystems & Native Mobile | METU CENG</b><br>
+  <b>Product-Driven Software Engineer | Full-Stack Web & Native Mobile | METU CENG</b><br>
   <i>1st Place Winner - METU Senior Design Project Competition 🏆</i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a Senior Computer Engineering student at Middle East Technical University (METU). I specialize in architecting scalable backend infrastructures and engineering intuitive, high-performance Android applications. I am deeply passionate about translating complex business requirements into robust, production-ready software solutions by strictly adhering to modern architectural patterns like **Clean Architecture**.
+I am a Senior Computer Engineering student at Middle East Technical University (METU). I specialize in building complete, end-to-end solutions—from architecting scalable backend infrastructures to developing responsive web interfaces and high-performance Android applications. I am deeply passionate about taking full technical ownership of the product lifecycle, translating complex business requirements into robust, production-ready software solutions while strictly adhering to modern architectural patterns like **Clean Architecture**.
 
 ---
 
@@ -16,10 +16,10 @@ I am a Senior Computer Engineering student at Middle East Technical University (
 
 ### 🚀 Full-Stack & Mobile Software Engineer (Freelance)
 *Jan 2024 – Present*
-* Collaborated with independent clients to turn custom business requirements into functional, production-ready applications.
-* Developed scalable backend systems and RESTful APIs using **Java and Spring Boot**.
-* Built high-performance, secure Android applications utilizing **Kotlin and Clean Architecture**.
-* Managed end-to-end development lifecycles, taking full technical ownership from initial system design to deployment.
+* Collaborated with independent clients to turn custom business requirements into functional, production-ready full-stack applications.
+* Developed scalable backend systems and RESTful APIs using **Java (Spring Boot)** and **Python**.
+* Built responsive frontend interfaces and high-performance, secure Android applications utilizing **Kotlin and Clean Architecture**.
+* Managed end-to-end development lifecycles, taking full technical ownership across the entire stack—from initial database modeling and system design to UI integration and deployment.
 
 ### ⚙️ Back End Developer Intern @ Sikayetvar.com
 *Jun 2023 – Sep 2023*
